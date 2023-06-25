@@ -1,3 +1,4 @@
+![Background Image](https://github.com/shreya-singh21/shreya-singh21/blob/master/BACKGOUND%20IMAGE.jpeg)
 <h1 align="center">Hi 👋, I'm Shrya Singh</h1>
 <h3 align="center">A Devops Enthusiast</h3>
 
